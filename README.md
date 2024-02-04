@@ -18,13 +18,13 @@ Before using the Salary Prediction web application, ensure you have the followin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/salary-prediction-app.git
+    git clone https://github.com/Alwin-Sajan/Salary_Prediction_ML.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd salary-prediction-app
+    cd Salary_Prediction_ML
     ```
 
 3. Install dependencies:
