@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    background-color: rgb(247, 204, 51);
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    margin:12% auto;
+    border-radius: 24px;
+    outline: 8px solid goldenrod;
+    width: max-content;
+    padding: 8vh;
+    background-color: whitesmoke;
+    
+}
